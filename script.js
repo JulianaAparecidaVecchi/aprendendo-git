@@ -1,0 +1,1 @@
+let varDoSite = 'Variável do site'
